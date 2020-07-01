@@ -97,7 +97,7 @@ section {
 /* ======================================= */
 /*voir (;) */
 header {
-    background-image: linear-gradient(rgba(0, 242, 96, 0.4), rgba(7, 117, 230, 0.6)), url(/ressourses/images/header.jpg);
+    background-image: linear-gradient(rgba(0, 242, 96, 0.4), rgba(7, 117, 230, 0.6)), url(ressourses/images/header.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
@@ -257,7 +257,7 @@ header {
 
 .clients {
     background-image: linear-gradient(rgba(0, 242, 96, 0.4), rgba(7, 117, 230, 0.6)),
-        url(/ressourses/images/Avis-clients/the-paysage.jpg);
+        url(ressourses/images/Avis-clients/the-paysage.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
